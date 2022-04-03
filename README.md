@@ -1,3 +1,7 @@
+# auto.sh
+
+主要完成blog的自动上传
+
 # Markdown
 
 ## 学习目的

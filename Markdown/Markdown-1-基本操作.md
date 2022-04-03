@@ -1,6 +1,15 @@
 title: Markdown.1——基本操作
+date: 2022-04-04  03:40:11
+categories: 
+- 记录
 
------------
+tags: 
+- markdown
+---
+
+主要用于记录markdown的字体、分层、链接、图片、表格等基本功能
+
+<!--more--> 
 
 # 字体
 
