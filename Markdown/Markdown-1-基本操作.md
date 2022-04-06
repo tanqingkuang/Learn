@@ -87,12 +87,23 @@ tags:
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 ## 显示格式
 
+使用html格式，相关参数见[HTML  标签](https://www.w3school.com.cn/tags/tag_img.asp)
+
 ```
-大小：
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<center>
+<img src="http://static.runoob.com/images/runoob-logo.png" width="30%">
+<img src="http://static.runoob.com/images/runoob-logo.png" width="30%">
+</br>
+这里是图注
+</center>
 ```
 
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<center>
+<img src="http://static.runoob.com/images/runoob-logo.png" width="30%">
+<img src="http://static.runoob.com/images/runoob-logo.png" width="30%">
+</br>
+这里是图注
+</center>
 
 # 表格
 

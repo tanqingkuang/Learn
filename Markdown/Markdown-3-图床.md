@@ -1,6 +1,6 @@
 
 
-title: Markdown-3——图床
+title: Markdown.3——图床
 date: 2022-04-04  17:53:11
 categories: 
 
@@ -26,6 +26,7 @@ tags:
 
 [markdown 写文章如何将图片永久保存](https://www.bilibili.com/video/BV1Dz4y127f6?spm_id_from=333.880.my_history.page.click)
 
-示例：
+例如：
 
-![搜狗截图20220404191719](https://gitee.com/tanqingkuang/images/raw/master/markdown/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20220404191719.png)
+![图例](https://gitee.com/tanqingkuang/images/raw/master/markdown/typora-icon.png)
+
